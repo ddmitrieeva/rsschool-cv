@@ -53,5 +53,4 @@ ___
             }
         else
          {location.replace("#"); }
-    }
-
+    } 
